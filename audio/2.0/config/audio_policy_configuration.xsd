@@ -340,6 +340,7 @@
             <xs:enumeration value="AUDIO_FORMAT_AC4"/>
             <xs:enumeration value="AUDIO_FORMAT_LDAC"/>
             <xs:enumeration value="AUDIO_FORMAT_LHDC"/>
+            <xs:enumeration value="AUDIO_FORMAT_LHDC_LL"/>
         </xs:restriction>
     </xs:simpleType>
     <!-- TODO: Change to a space separated list to xsd enforce correctness. -->
